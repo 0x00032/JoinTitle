@@ -1,5 +1,5 @@
 # JoinTitle
-===================
+
 [![HitCount](http://hits.dwyl.com/0x00032/{project}.svg)](http://hits.dwyl.com/0x00032/JoinTitle)
 
 #### How to use this plugin?
